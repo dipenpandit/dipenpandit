@@ -1,5 +1,5 @@
 # Hi 👋, I'm Dipen Pandit.
-## Join me on a journey into the exciting world of machine learning, where data-driven insights shape the future ✨
+## 🔍 Join me on a journey into the exciting world of machine learning, where data-driven insights shape the future ✨
 
 - 🌱 I’m currently learning **Tensorflow, scikit-learn, Flask**
 
