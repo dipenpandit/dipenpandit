@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Tensorflow, scikit-learn, Flask**
 
+- 💬 Ask me about **Supervised Learning**
+
 - 📫 How to reach me **dipen1.dp@gmail.com**
 
 - ⚡ Fun fact **I love onepiece ⛵️☠️**
