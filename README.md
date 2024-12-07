@@ -1,11 +1,11 @@
 # Hi 👋, I'm Dipen Pandit.
 ## 🔍 Join me on a journey into the exciting world of machine learning, where data-driven insights shape the future ✨
 
-- 🌱 I’m currently learning **Unsupervised Learning, Tensorflow, Flask**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 📫 How to reach me **dipen1.dp@gmail.com**
 
-- ⚡ Fun fact **I love onepiece ⛵️☠️**
+- ⚡ Fun fact **Onepiece is real ⛵️☠️**
 
 
 ## 🌐 Socials:
