@@ -1,7 +1,7 @@
 # Hi 👋, I'm Dipen Pandit.
-## 🔍 Let's make the world a better place ✨
+## Iterating toward better solutions, one gradient step at a time ✨
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 I’m currently building AI Agents.
 
 - 📫 How to reach me **dipen1.dp@gmail.com**
 
