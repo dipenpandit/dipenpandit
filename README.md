@@ -1,8 +1,6 @@
 # Hi there, I'm Dipen Pandit 👋
 I'm a Computer Engineer and ML Engineer from Nepal interested in building intelligent systems that can reason, plan, and make decisions.
 
-My current interests lie at the intersection of Reinforcement Learning, Planning, Search, and AI Agents
-
 
 ## 🛠️ Technical Skills
 - **Languages:** Python, C/C++, SQL, JavaScript
