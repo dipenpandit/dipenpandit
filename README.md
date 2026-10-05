@@ -1,11 +1,13 @@
-# Hi 👋, I'm Dipen Pandit.
-## Iterating toward better solutions, one gradient step at a time ✨
+# Hi there, I'm Dipen Pandit 👋
+I'm a Computer Engineer and ML Engineer from Nepal interested in building intelligent systems that can reason, plan, and make decisions.
 
-- I’m currently exploring Robotics and Reinforcement Learning.
-
-- How to reach me **dipen1.dp@gmail.com**
+My current interests lie at the intersection of Reinforcement Learning, Planning, Search, and AI Agents
 
 
-## 💻 Language and Tools:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=000) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logoColor=white)
-
+## 🛠️ Technical Skills
+- **Languages:** Python, C/C++, SQL, JavaScript
+- **ML/DL:** PyTorch, Scikit-learn, NumPy, Pandas
+- **RL & Simulation:** Gymnasium, OpenSpiel, MuJoCo
+- **LLMs & Agents:** LangChain, LangGraph, MCP, RAG
+- **Evaluation & Observability:** RAGAS, DeepEval, Opik, Grafana
+- **Tools & Infrastructure:** Git, Docker, FastAPI, PostgreSQL
